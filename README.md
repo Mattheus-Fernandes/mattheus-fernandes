@@ -1,6 +1,6 @@
-### Ola seja bem vindo, eu sou o Mattheus Fernandes!!! 👋
+### Olá seja bem-vindo, eu sou o Mattheus Fernandes!!! 👋
 
-Aqui eh onde voce encontrara tudo que eu venho estudando e praticando, fique a vontade para fazer uma boa visita ao meu perfil.
+Aqui e onde você encontrara tudo que eu venho estudando e praticando, fique a vontade para fazer uma boa visita ao meu perfil.
 
 “Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”
 Bill Gates
@@ -23,7 +23,7 @@ Bill Gates
 
 ##
 
-<h3>Estatisticas</h3>
+<h3>Estatísticas</h3>
           
 <div align="center">
   <a href="https://github.com/mattheus-fernandes">
